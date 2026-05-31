@@ -120,7 +120,7 @@ const ReservationSection = () => {
                 Book Now
               </button>
               <a
-                href="tel:+919999999999"
+                href="tel:+919970779327"
                 className="px-8 py-3 border border-primary/50 text-primary font-display text-sm tracking-[0.15em] uppercase text-center hover:bg-primary/10 transition-all duration-300"
               >
                 Call Restaurant
@@ -156,11 +156,7 @@ const ReservationSection = () => {
               <Phone className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
               <div>
                 <h4 className="font-display text-sm tracking-[0.1em] uppercase text-primary">Contact</h4>
-<<<<<<< HEAD
                 <p className="font-body text-lg text-foreground/80 mt-1">+91 99707 79327</p>
-=======
-                <p className="font-body text-lg text-foreground/80 mt-1">+91 99999 99999</p>
->>>>>>> 59d5fa7f44fe7ace5be15346cfe01ee91da362ad
               </div>
             </div>
 
