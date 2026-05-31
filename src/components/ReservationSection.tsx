@@ -156,7 +156,7 @@ const ReservationSection = () => {
               <Phone className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
               <div>
                 <h4 className="font-display text-sm tracking-[0.1em] uppercase text-primary">Contact</h4>
-                <p className="font-body text-lg text-foreground/80 mt-1">+91 99999 99999</p>
+                <p className="font-body text-lg text-foreground/80 mt-1">+91 99707 79327</p>
               </div>
             </div>
 
