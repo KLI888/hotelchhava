@@ -5,6 +5,7 @@ import MenuSection from "@/components/MenuSection";
 import MenuPDFViewer from "@/components/MenuPDFViewer";
 import ChefsSpecials from "@/components/ChefsSpecials";
 import EventsSection from "@/components/EventsSection";
+import GallerySection from "@/components/GallerySection";
 import ReservationSection from "@/components/ReservationSection";
 import Footer from "@/components/Footer";
 
@@ -14,6 +15,7 @@ const Index = () => {
       <Navbar />
       <HeroSection />
       <AboutSection />
+      <GallerySection />
       <MenuSection />
       <MenuPDFViewer />
       <ChefsSpecials />
